@@ -11,5 +11,7 @@ Usage: **`ProjectName=>ContractName,Task`**
 
 # Access Control  
 + Only Auditors can submit their daily updates
-+ Daily Tasks can only be recorded to existing projects and not for any random one.
-+ 
++ Daily Tasks can only be recorded for existing projects and not for any random one.
+
+
+# Change Logs V1: 19
