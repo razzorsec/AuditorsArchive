@@ -18,4 +18,3 @@ Usage: **`ProjectName => ContractName : Task`**
 + `/help` command to retrieve this document
 + Access Control for auditors and project managers
 + TimeStamps for tasks
-+ 
