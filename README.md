@@ -17,3 +17,5 @@ Usage: **`ProjectName => ContractName : Task`**
 # Change Logs V1: 19 March 2022
 + `/help` command to retrieve this document
 + Access Control for auditors and project managers
++ TimeStamps for tasks
++ 
