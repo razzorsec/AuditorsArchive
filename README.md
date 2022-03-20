@@ -1,6 +1,6 @@
 # AuditorsArchive  
-The bot manages and recordes the daily standup for all the auditors.
-t.me/AuditorsArchiveBot
+The bot manages and recordes the daily standup for all the auditors.  
+https://t.me/AuditorsArchiveBot
 
 # How To Use  
 Fairly simple to use.  
