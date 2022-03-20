@@ -2,7 +2,7 @@
 The bot manages and recordes the daily standup for all the auditors.
 
 # How To Use  
-Fairly simple to use. 
+Fairly simple to use.  
 Usage: ```ProjectName=>ContractName,Task```
 + ProjectName: Case-Sensitive | The project an Auditor is working upon
 + ContractName: The specific contract of the project
