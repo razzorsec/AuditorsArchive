@@ -8,7 +8,7 @@ Usage: **`ProjectName=>ContractName,Task`**
 + **ProjectName:** Case-Sensitive | The project an Auditor is working upon
 + **ContractName:** The specific contract of the project
 + **Task:** Task Specifying what has been done as a daily update, for instance, manual review, specific research, functional tests, etc.
-+ **Important**: There should not be any space prior to and after the **=>** delimiter.
++ **Important**: There should not be any space prior to and after the **`=>`** delimiter.
 
 # Access Control  
 + Only Auditors can submit their daily updates
