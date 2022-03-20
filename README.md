@@ -14,4 +14,4 @@ Usage: **`ProjectName=>ContractName,Task`**
 + Daily Tasks can only be recorded for existing projects and not for any random one.
 
 
-# Change Logs V1: 19
+# Change Logs V1: 19 March 2022
